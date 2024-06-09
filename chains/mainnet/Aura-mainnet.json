@@ -1,0 +1,18 @@
+{
+  "chain_name": "Aura-mainnet",
+  "api": ["https://aura.api.m.stavr.tech"],
+  "rpc": ["https://aura.rpc.m.stavr.tech"],
+  "coin_type": 118,
+  "min_tx_fee": 200,
+  "sdk_version": "0.44.5",
+  "addr_prefix": "cc",
+  "logo": "/logos/aura.png",
+  "assets": [
+    {
+      "base": "uaura",
+      "symbol": "AURA",
+      "exponent": 6,
+      "logo": "/logos/aura.png"
+    }
+  ]
+}

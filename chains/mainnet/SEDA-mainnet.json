@@ -1,0 +1,18 @@
+{
+  "chain_name": "SEDA-mainnet",
+  "api": ["https://seda.api.kjnodes.com"],
+  "rpc": ["https://seda.rpc.kjnodes.com"],
+  "coin_type": 118,
+  "min_tx_fee": 200,
+  "sdk_version": "0.44.5",
+  "addr_prefix": "cc",
+  "logo": "/logos/seda.png",
+  "assets": [
+    {
+      "base": "uaura",
+      "symbol": "SEDA",
+      "exponent": 6,
+      "logo": "/logos/seda.png"
+    }
+  ]
+}

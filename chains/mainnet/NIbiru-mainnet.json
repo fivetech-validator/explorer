@@ -1,0 +1,18 @@
+{
+  "chain_name": "Nibiru-mainnet",
+  "api": ["https://nibiru.api.m.stavr.tech"],
+  "rpc": ["https://nibiru.rpc.m.stavr.tech"],
+  "coin_type": 118,
+  "min_tx_fee": 200,
+  "sdk_version": "0.44.5",
+  "addr_prefix": "cc",
+  "logo": "/logos/nibiru.jpg",
+  "assets": [
+    {
+      "base": "unibi",
+      "symbol": "NIBI",
+      "exponent": 6,
+      "logo": "/logos/nibiru.jpg"
+    }
+  ]
+}
