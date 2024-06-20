@@ -1,0 +1,18 @@
+{
+  "chain_name": "Hedge-testnet",
+  "api": ["https://hedge-api.validator247.com"],
+  "rpc": ["https://hedge-rpc.validator247.com"],
+  "coin_type": 118,
+  "min_tx_fee": 200,
+  "sdk_version": "0.44.5",
+  "addr_prefix": "cc",
+  "logo": "/logos/hedge.png",
+  "assets": [
+    {
+      "base": "uhedge",
+      "symbol": "HEDGE",
+      "exponent": 6,
+      "logo": "/logos/hedge.png"
+    }
+  ]
+}
